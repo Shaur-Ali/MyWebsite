@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
+  <link href="./assets/favicon.ico" rel="icon">
+
+  <title>Portfolio</title>  
+
+<link href="./main.d8e0d294.css" rel="stylesheet"></head>
+
+<body>
+
+<!-- Add your content of header -->
+<div class="background-color-layer" style="background-image: url('assets/images/img-01.jpg')"
+></div>
+<main class="content-wrapper">
+  <header class="white-text-container section-container">
+    <div class="text-center">
+      <h1>I am Shaur Ali</h1>
+      <p>Wordpress Web developer</p>
+      <p>
+        <a class="fa-icon fa-icon-2x" href="https://x.com/Shaur__Ali?t=HGPvVSNxZRwchtHOuQIuxA&s=09" title="">
+          <i class="fa fa-twitter"></i>
+        </a>
+        
+        <a class="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/syed-shaur-ali-832954242" title="">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </p>
+    </div>
+  </header>
+
+
+
+<!-- Add your site or app content here -->
+ 
+ <div class="container">
+   <div class="row">
+     <div class="col-xs-12">
+
+        <div class="card">
+          <div class="card-block">
+            <h2>About me</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <p><img src="./assets/images/img-s.jpg" class="img-responsive" alt=""></p>
+              </div>
+              <div class="col-md-8">
+
+              <p>Hello! I’m Syed Shaur Ali Naqvi, a passionate WordPress developer specializing in front-end development, theme and plugin installation, and customization. With a keen eye for detail and a dedication to delivering exceptional user experiences, I bring creativity and technical expertise to every project.</p>
+              <p> My goal is to help businesses and individuals create stunning, functional, and user-friendly websites that align perfectly with their brand and objectives.</p>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-block">
+              <h2>Projects <small>(Click on project's image to see live versions)</small></h2>
+
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <a href="https://sirmcares.co.uk/" title="">
+                  <img src="./assets/images/port-4.JPG" class="img-responsive" alt="...">
+                  <div class="carousel-caption">
+                    <h3 class="h5">Sirm Cares</h3>
+                    <p>2017</p>
+                  </div>
+                </a>
+              </div>
+
+
+              <div class="item">
+                <a href="https://rosenadvisory.com/" title="">
+                  <img src="./assets/images/pot-2.JPG" class="img-responsive" alt="...">
+                  <div class="carousel-caption">
+                    <h3 class="h5">Rosen Advisory</h3>
+                    <p>2017</p>
+                  </div>
+                </a>
+              </div>
+
+              <div class="item">
+                <a href="https://www.americanlycetuffdnk.edu.pk/" title="">
+                  <img src="./assets/images/pot-3.JPG" class="img-responsive" alt="...">
+                  <div class="carousel-caption">
+                    <h3 class="h5">American Lycetuff</h3>
+                    <p>2017</p>
+                  </div>
+                </a>
+              </div>
+
+              <!-- <div class="item"></div>
+                <a href="https://get-awarded.co.uk/" title="">
+                  <img src="./assets/images/port-1.JPG" class="img-responsive" alt="...">
+                  <div class="carousel-caption">
+                    <h3 class="h5">Get Awarded</h3>
+                    <p>2017</p>
+                  </div>
+                </a>
+              </div> -->
+
+
+            </div>
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+              <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              <!-- <li data-target="#carousel-example-generic" data-slide-to="3"></li> -->
+            </ol>
+
+          </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-block">
+            <h2>Work</h2>
+            <div class="work-experience">
+              <h3 class="h5 date-title">Web developer - <a href="https://sirmcares.co.uk/" title="Create professionnal website">Sirm Cares</a></h3>
+              
+
+              <p>Developed a user-friendly WordPress site for Sirmcares, showcasing their comprehensive range of compassionate healthcare services with an emphasis on professional care and patient support.</p>
+            </div>
+            
+
+            <div class="work-experience">
+              <h3 class="h5 date-title">Web developer - <a href="https://rosenadvisory.com/" title="">Rosen Advisory</a></h3>
+              
+              <p>Tailored the Rosen Advisory WordPress site to highlight their expert M&A guidance services, optimizing the front-end to effectively communicate their commitment to enhancing business value and achieving financial results.</p>
+            </div>
+
+            <div class="work-experience">
+              <h3 class="h5 date-title">Web developer - <a href="https://www.americanlycetuffdnk.edu.pk/" title="">ALS DNK</a></h3>
+              
+              <p>Created a dynamic and engaging WordPress site for ALS DNK, presenting their international educational offerings and life skills focus with a design that reflects their commitment to nurturing students' growth and development.</p>
+            </div>     
+
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-block">
+            <h2>What I do</h2>
+            <div class="work-experience">
+              <h3>Front-End Theme Development & Customization</h3>
+              <ul>
+                  <li><strong>Theme Installation:</strong> Seamless setup and configuration of premium or custom themes.</li>
+                  <li><strong>Custom Theme Development:</strong> Creating unique themes tailored to your brand’s identity.</li>
+                  <li><strong>Responsive Design:</strong> Ensuring your website is optimized for all screen sizes and devices.</li>
+              </ul>
+          </div>
+
+            
+            
+
+            <div class="work-experience">
+              <h3>Content Management</h3>
+              <ul>
+                  <li><strong>Content Creation & Editing:</strong> Writing and editing content to align with your brand’s voice and style.</li>
+                  <li><strong>Content Updates:</strong> Regularly updating and managing content to ensure accuracy and relevancy.</li>
+                  <li><strong>Media Management:</strong> Organizing and optimizing images, videos, and other media for better performance.</li>
+                  <li><strong>SEO Optimization:</strong> Implementing best practices to enhance your site’s visibility in search engines.</li>
+              </ul>
+          </div>
+          </div>
+        </div>
+        
+
+        <div class="card">
+          <div class="card-block">
+            <h2>Education</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <div class="education-experience">
+                  <small class="date">2020-2024</small>
+                  <h3 class="h5 date-title">Computer Engineer</h3>
+                  <p>Comsats University</p>
+                </div>
+                
+              </div>
+              <div class="col-md-4">
+                <div class="education-experience">
+                  <small class="date">2018-2020</small>
+                  <h3 class="h5 date-title">College Degree</h3>
+                  <p>Punjab college of science</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="education-experience">
+                  <small class="date">2016-2018</small>
+                  <h3 class="h5 date-title">Metrics Degree</h3>
+                  <p>Islamabad college for boys</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card">
+          <div class="card-block">
+            <h2>Language</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <div class="language-experience">
+                  <h3 class="h5">English  <small>Bilingual</small></h3>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="language-experience">
+                  <h3 class="h5">Urdu  <small>Fluent</small></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+        
+        <div class="card">
+          <div class="card-block">
+            <h2>Social Network</h2>
+            <div class="row d-flex justify-content-center">  <div class="col-md-3">
+                <p class="social-buttons"><a href="https://x.com/Shaur__Ali?t=HGPvVSNxZRwchtHOuQIuxA&s=09" title=""><span class="social-round-icon fa-icon"><i class="fa fa-twitter"></i></span>@Shaur__Ali</a></p>
+              </div>
+              <div class="col-md-3">
+                <p class="social-buttons"><a href="https://www.linkedin.com/in/syed-shaur-ali-832954242" title=""><span class="social-round-icon fa-icon"><i class="fa fa-linkedin"></i></span>Shaur Ali</a></p>
+              </div>
+              <div class="col-md-3">
+                <p class="social-buttons"><a href="shaurali706@gmail.com" title=""><span class="social-round-icon fa-icon"><i class="fa fa-envelope"></i></span>Shaur Ali</a></p>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-block">
+        
+            <h2>Want to discuss your next project?</h2>
+            <div>
+              <p style="display: inline;">Feel free to contact me on Email to start your new project: </p>
+              <p class="social-buttons" style="display: inline; margin-left: 10px;">
+                <a href="mailto:shaurali706@gmail.com" title="">
+                  <span class="social-round-icon fa-icon" style="margin-right: 5px;">
+                    <i class="fa fa-envelope"></i>
+                  </span> 
+                  Shaur Ali
+                </a>
+              </p>
+            </div>
+            
+        
+        
+          </div>
+        </div>
+       
+     </div>
+   </div>
+ </div>
+
+</main>
+<footer class="footer-container white-text-container text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p><img src="./assets/images/mashup-icon.svg" alt=""></p>
+        
+        <p>©All right reserved. Made with &#x2764; </p>
+        <p>
+          
+          <a class="fa-icon fa-icon-2x" href="https://x.com/Shaur__Ali?t=HGPvVSNxZRwchtHOuQIuxA&s=09" title="">
+            <i class="fa fa-twitter"></i>
+          </a>
+          
+          <a class="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/syed-shaur-ali-832954242" title="">
+            <i class="fa fa-linkedin"></i>
+          </a>
+         
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+     scrollRevelation('.card');
+  });
+</script>
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
+
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'UA-XXXXX-X', 'auto');
+  ga('send', 'pageview');
+</script>
+
+--><script type="text/javascript" src="./main.bc58148c.js"></script></body>
+
+</html>
